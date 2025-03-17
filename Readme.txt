@@ -1,5 +1,7 @@
 welcome to my project
 
-author:thomas akeshh
+
+author:thomas sures akeshh
+
 
 Twitter:@thomascludiush
